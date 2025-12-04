@@ -1,5 +1,5 @@
 # Spam-Classification-Model-UPGRADED
-A heavily upgraded and redesigned version of my previous spam messgage classification model --> [Spam-Message-Classification-Model](https://github.com/VL5H/Spam-Message-Classification-Model)
+A heavily upgraded and redesigned version of my previous spam message classification model --> [Spam-Message-Classification-Model](https://github.com/VL5H/Spam-Message-Classification-Model)
 
 This model also classifies SMS messages as either "spam" or "ham" with the following critical improvements:
 1. The original dataset of 5000+ samples was heavily skewed towards "ham" with about 75% of the messages being examples of normal messages. This imbalance was equalized and the total number of samples was boosted to around 21,000 examples both "spam" and "ham" messages.
